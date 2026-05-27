@@ -51,8 +51,6 @@ A **production-grade data platform** showcasing advanced data modeling, ETL desi
 | Project | Description | Status |
 |---------|-------------|--------|
 | **[Course Recommendation Engine](https://github.com/amanjotsahni/Course-recommendation)** | Full-stack platform with AI-powered learning roadmaps | Complete |
-| **[Data Engineering Prep Material](https://github.com/amanjotsahni/Data-engineering-prep-material)** | Interview prep & best practices for data engineers | In Progress |
-| **[Data Zoomcamp](https://github.com/amanjotsahni/data-zoomcamp)** | Advanced data engineering coursework | Reference |
 
 ---
 
