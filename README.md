@@ -1,4 +1,4 @@
-# Hi there, I'm Amanjot Singh Sahni 👋
+# Hi there, I'm Amanjot Kaur Sahni 👋
 ### Data Engineer & Business Intelligence Specialist
 
 I build scalable data pipelines, robust storage architectures, and interactive analytical solutions that convert raw data into high-value business insights.
