@@ -96,9 +96,7 @@ A **production-grade data platform** showcasing advanced data modeling, ETL desi
 <td>
 
 ### **Backend & DevOps**
-- Python (Expert)
-- REST APIs & Microservices
-- Docker & Containerization
+- Python
 - CI/CD Pipelines
 - Git & GitHub
 - Environment Management
@@ -108,20 +106,16 @@ A **production-grade data platform** showcasing advanced data modeling, ETL desi
 
 ### **Frontend & Visualization**
 - Streamlit (Interactive UIs)
-- React & JavaScript
-- HTML/CSS
 - Plotly & Visualization
 - Data Dashboards
-- UX Design
 
 </td>
 <td>
 
 ### **Cloud & Infrastructure**
 - Google Cloud Platform
-- AWS Services
 - DigitalOcean
-- Azure (Basics)
+- Azure (Azure Data Factory, Azure Synapse Analytics, Azure Databricks)
 - Hybrid Deployments
 - Network Architecture
 
